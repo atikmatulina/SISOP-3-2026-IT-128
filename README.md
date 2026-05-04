@@ -40,9 +40,8 @@ Disini lalu membuat ./navi di terminal dua untuk membuat lawan percakapan atau u
 
 
 
-<img width="1012" height="548" alt="WhatsApp Image 2026-05-03 at 5 45 50 PM (2)" src="https://github.com/user-attachments/assets/cda22c04-1fbd-4e67-92f8-6cc6a09380d4" />
+<img width="1166" height="694" alt="WhatsApp Image 2026-05-04 at 10 05 15 PM" src="https://github.com/user-attachments/assets/26844741-e786-435f-b4ac-20901d03775c" />
 .
-
 <img width="874" height="140" alt="WhatsApp Image 2026-05-04 at 9 37 43 PM (1)" src="https://github.com/user-attachments/assets/85c3c1a6-e96c-402f-9f88-670e195963bb" />
 
 Lalu disini ketika kita memasukan angka 1 maka akan keluar 
